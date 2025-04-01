@@ -18,8 +18,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MrkeKGCuMLqLnaOiC5iF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="sEUJc0V9VYMRzwjmS536-2" target="MrkeKGCuMLqLnaOiC5iF-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MrkeKGCuMLqLnaOiC5iF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.992;exitY=0.836;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sEUJc0V9VYMRzwjmS536-2" target="MrkeKGCuMLqLnaOiC5iF-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="289" y="155" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MrkeKGCuMLqLnaOiC5iF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="sEUJc0V9VYMRzwjmS536-2" target="MrkeKGCuMLqLnaOiC5iF-20">
           <mxGeometry relative="1" as="geometry">
@@ -49,12 +53,12 @@
         <mxCell id="MrkeKGCuMLqLnaOiC5iF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MrkeKGCuMLqLnaOiC5iF-1" target="MrkeKGCuMLqLnaOiC5iF-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="125" />
-              <mxPoint x="800" y="455" />
+              <mxPoint x="770" y="125" />
+              <mxPoint x="770" y="455" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MrkeKGCuMLqLnaOiC5iF-1" value="Biodiversitätsfläche" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MrkeKGCuMLqLnaOiC5iF-1" value="Umwandlung Flächennutzung von Landwirtschaft zu Biodiversität" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="95" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MrkeKGCuMLqLnaOiC5iF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MrkeKGCuMLqLnaOiC5iF-5" target="sEUJc0V9VYMRzwjmS536-2">
@@ -99,6 +103,9 @@
         </mxCell>
         <mxCell id="MrkeKGCuMLqLnaOiC5iF-20" value="Steigerug der Lebensqualität f. Menschen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrkeKGCuMLqLnaOiC5iF-24" value="Potential&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
